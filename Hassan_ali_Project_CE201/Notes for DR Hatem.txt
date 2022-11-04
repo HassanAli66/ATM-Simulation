@@ -1,0 +1,7 @@
+hello DR hatem,
+
+Please don't forget to change the paths for the PNG files inside the ATM.py file.
+It won't work properly if the paths are wrong.
+Setting new paths depends on the location or the directory of the project folder.
+
+											thanks
